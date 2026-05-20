@@ -1,0 +1,24 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mustafasabti363-afk/Webcrawlerhttp#readme",
+  "bugs": {
+    "url": "https://github.com/mustafasabti363-afk/Webcrawlerhttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafasabti363-afk/Webcrawlerhttp.git"
+  },
+  "license": "ISC",
+  "author": "Mustafa Sabti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
